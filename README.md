@@ -1,4 +1,5 @@
 # Space Occupancy: Analyze Peak Occupancy of Learning Space
+![](samplespaceimage.jpeg)
 
 ## Introduction
 
