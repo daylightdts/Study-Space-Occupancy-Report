@@ -1,4 +1,4 @@
-# Space Occupancy: Analyze Trends of Occupants of a Learning Space
+# Space Occupancy: Analyze Peak Period of Learning Space
 ![intro](https://github.com/daylightdts/Study-Space-Occupancy-Report/assets/134946052/da9c1788-ea4f-478d-a8b9-f31ecea5051d)
 
 ## Introduction
