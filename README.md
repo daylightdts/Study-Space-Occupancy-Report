@@ -109,7 +109,7 @@ Students spend an average of 1hr 55mins hours in the space on Mondays and Friday
 
 
 
-***PS:*** *The data on space occupancy can be used to generate additional insights than the ones provided in this report. This report only seeks to answer the most relevant questions that are most important to us.*
+***PS:*** *The data on space occupancy can be used to generate additional insights. This report only seeks to answer the relevant questions that are most important to us.*
 
 
 
