@@ -11,14 +11,14 @@ This project aims to uncover one (1) month user trends of a student learning spa
 ![fields preview](https://github.com/daylightdts/Study-Space-Occupancy-Report/assets/134946052/57b27145-547a-4bb9-8c91-816b50a96aa6)
 
 ***Disclaimer:*** *This is a mock dataset generated online and does not represent any company, institution, or country.
-We hereby make some assumptions since the dataset isn't complete.*
+We hereby make some assumptions since the dataset is not complete.*
 
 
 ### Assumptions:
 
 a) Each student is allowed 2 hours maximum at the space per day.
 
-b) Checkings and checkouts are exactly on the hour.
+b) Check-ins and checkouts are exactly on the hour.
 
 c) The space is open from 8:00 to 22:00.
 
@@ -28,7 +28,7 @@ c) The space is open from 8:00 to 22:00.
 
 a) All check-ins at 20:00 must have 2 hours maximum time spent.
 
-b) Checkings with missing or null values must have 0 hours as time spent.
+b) All check-ins with missing or null values must have 0 hours as time spent.
 
 
 
@@ -41,9 +41,9 @@ Data importation from CSV
 
 Data cleaning
 
-Creating additional fields from columns
+Creating additional fields from columns to answer problem statements
 
-Loading the data back to the Excel table
+Loading the data to the Excel table
 
 
 ***Excel Pivot Charts***
