@@ -105,7 +105,7 @@ The data used for this project has provided valuable insights into the occupancy
 
 From the chart insighs the space's highest occupancy is on Mondays and is least occupied on Wednesdays.
 Hourly occupancy distribution shows that the space is most occupied during the morning hours, with the highest occupancy between 8:00 and 10:00. The space is less occupied during the evening hours, with the lowest occupancy between 17:00 and 18:00.
-Students spend an average of 1hr 55mins hours in the space on Mondays and Fridays. Students spend the longest time in the space and the shortest time spent in the space are on Tuesdays.
+Students spend an average of 1hr 55mins in the space on Mondays and Fridays making both days share the longest time spent by students in the space, additionally, students spend the least time in the space on Tuesdays.
 
 
 
